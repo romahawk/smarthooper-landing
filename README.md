@@ -1,4 +1,4 @@
-Smarthooper - AI Basketball Training Landing Page
+**Smarthooper - AI Basketball Training Landing Page**
 
 Welcome to the Smarthooper landing page repository! This project is a simple, responsive landing page built using Bootstrap 5 to promote Smarthooper, an AI-powered basketball training platform.
 
